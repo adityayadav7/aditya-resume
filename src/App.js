@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <div className='page1'>
-     <iframe className='page' src="https://resume.creddle.io/embed/ipi4hkbimvt"
+     <iframe className='page' title="My Resume" src="https://resume.creddle.io/embed/ipi4hkbimvt"
   width="850" height="1100" seamless></iframe>
   </div>
       </header>
